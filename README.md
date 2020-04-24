@@ -3,7 +3,8 @@ A Keras implementation of the MaLSTM model for computing Semantic Similarity.
 
 Src: [Mueller, Jonas and Aditya Thyagarajan. “Siamese Recurrent Architectures for Learning Sentence Similarity.” AAAI (2016).](file:///home/jmourad/Downloads/12195-56216-1-PB.pdf)
 
-# Download Embedding: GoogleNews-vectors-negative300.bin.gz
+# Download Embedding: 
+GoogleNews-vectors-negative300.bin.gz
 
 # Create Conda Envirement Using yml File
 ```
